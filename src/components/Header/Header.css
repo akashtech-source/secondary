@@ -1,0 +1,12 @@
+.header img{
+    width: 30%;
+}
+.header{
+    text-align: center;
+    
+}
+.solgan{
+    background-color: aqua;
+    color: rgb(219, 6, 238);
+    line-height: 40px;
+}

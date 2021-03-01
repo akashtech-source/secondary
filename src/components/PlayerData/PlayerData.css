@@ -1,0 +1,24 @@
+.person-data img{
+    width: 350px;
+    margin-top: 25px;
+    
+}
+.person-data{
+    display: flex;
+    height: 300px;
+    border-bottom: 1px solid lightgrey;
+    margin-left: 70px;
+}
+.info{
+    margin-left: 60px;
+    color: rgb(78, 74, 74);
+}
+.add-btn{
+    background-color: gold;
+    cursor: pointer;
+    padding: 10px;
+    width: 150px;
+    color:white;
+    border-radius: 5px;
+    font-size:large;
+}

@@ -1,0 +1,15 @@
+.selected-player{
+    height: 300px;
+    width: 200px
+}
+.submit-btn{
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    border: radius 5px;
+}
+.cart-info{
+    color: rgb(255, 0, 179);
+    margin-left: 30px;
+}

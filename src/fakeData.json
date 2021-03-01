@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Marc-André ter Stegen",
+    "email": "cfindlow0@issuu.com",
+    "type": "GOALKEEPER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/4c6a9daf-dbdc-48b5-9185-3f13e7c46d36/mini_ter_stegen.jpg?width=640&height=400",
+    "salary": 1997
+  }, {
+    "id": 2,
+    "name": "Neto",
+    "email": "vbresnen1@hostgator.com",
+    "type": "GOALKEEPER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/efc5feaa-5ec8-47b5-8412-4d5e76f1b3f1/mini_neto_2.jpg?width=640&height=400",
+    "salary": 2001
+  }, {
+    "id": 3,
+    "name": "Sergiño Dest",
+    "email": "jgirardin2@ox.ac.uk",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/5589c155-e2d1-4005-85a9-e431ad6d6316/mini_dest.jpg?width=640&height=400",
+    "salary": 1993
+  }, {
+    "id": 4,
+    "name": "Gerard Piqué",
+    "email": "cbonnar3@ted.com",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/8c8f06d3-0dcc-4fa0-a7be-afd9f59571ac/mini_pique.jpg?width=640&height=400",
+    "salary": 2002
+  }, {
+    "id": 5,
+    "name": "Ronald Araujo",
+    "email": "fkelsow4@arstechnica.com",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/5865c3e1-09b8-4237-bc8f-b48ccd5e7226/mini_araujo.jpg?width=640&height=400",
+    "salary": 2006
+  }, {
+    "id": 6,
+    "name": "Clément Lenglet",
+    "email": "tpirie5@usda.gov",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/af4f65a2-1847-42c9-9b9a-1f35b3f7517f/mini_lenglet.jpg?width=640&height=400",
+    "salary": 2008
+  }, {
+    "id": 7,
+    "name": "Jordi Alba",
+    "email": "sgiacobo6@acquirethisname.com",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/0c63d461-6713-47c4-8a20-c364331ac9ab/mini_alba.jpg?width=640&height=400",
+    "salary": 1989
+  }, {
+    "id": 8,
+    "name": "Sergi Roberto",
+    "email": "riacovazzi7@skype.com",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/2bf9d0c6-8f6b-43a2-9b7c-34856b32efbb/mini_s_roberto.jpg?width=640&height=400",
+    "salary": 2010
+  }, {
+    "id": 9,
+    "name": "Samuel Umtiti",
+    "email": "palfuso8@comsenz.com",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/3ef7e026-f4dc-4d96-8f88-de3188cf8520/mini_umtiti.jpg?width=640&height=400",
+    "salary": 2000
+  }, {
+    "id": 10,
+    "name": "Junior Firpo",
+    "email": "jracher9@infoseek.co.jp",
+    "type": "DEFENDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/595314a1-b29f-4757-a8a5-263671927fff/mini_firpo.jpg?width=640&height=400",
+    "salary": 2008
+  }, {
+    "id": 11,
+    "name": "Sergio Busquets",
+    "email": "wpettiforda@businessinsider.com",
+    "type": "MIDFIELDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/08/2f9072e9-16d1-45db-9217-24375df8fa01/mini_sergio_2.jpg?width=640&height=400",
+    "salary": 2008
+  }, {
+    "id": 12,
+    "name": "Miralem Pjanic",
+    "email": "jtunnob@quantcast.com",
+    "type": "MIDFIELDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/c6fe83f5-0a7e-4691-8390-7a9d5f35c659/mini_pjanic.jpg?width=640&height=400",
+    "salary": 2004
+  }, {
+    "id": 13,
+    "name": "Ricard Puig",
+    "email": "apetegrec@myspace.com",
+    "type": "MIDFIELDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/5a30cebd-30e3-4e5d-962a-5459b288621a/mini_riqui.jpg?width=640&height=400",
+    "salary": 2002
+  }, {
+    "id": 14,
+    "name": "Philippe Coutinho",
+    "email": "oelwind@adobe.com",
+    "type": "MIDFIELDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/abe2d000-8eeb-49de-8664-5668e3b4dc6d/mini_coutinho.jpg?width=640&height=400",
+    "salary": 2012
+  }, {
+    "id": 15,
+    "name": "Pedri",
+    "email": "bhuskissone@phoca.cz",
+    "type": "MIDFIELDER",
+    "img": "https://www.fcbarcelona.com/photo-resources/2020/10/13/c8dc7fbc-8cec-4d4c-98e6-1934bb316a55/mini_pedri.jpg?width=640&height=400",
+    "salary": 2004
+  }]
